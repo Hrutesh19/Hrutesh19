@@ -22,6 +22,6 @@
 - 📝 "A Review of Image Processing Algorithms for Foliage Target Detection and Classification"
 
 🔗 **Connect with me**
--[LinkedIn Hrutesh Ghodmare](https://www.linkedin.com/in/hrutesh-ghodmare-5aa44521bL)
+-[LinkedIn Hrutesh Ghodmare](https://www.linkedin.com/in/hrutesh-ghodmare-5aa44521b)
 
 🚀 Excited to learn and contribute to the world of Fullstack development!
