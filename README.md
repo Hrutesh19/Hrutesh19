@@ -21,10 +21,6 @@ Welcome to my GitHub profile. I'm a passionate Full Stack Developer Engineer wit
 - "A Comprehensive Review of Foliage Penetration Radar Systems"
 - "A Review of Image Processing Algorithms for Foliage Target Detection and Classification"
 
-## 📫 Contact Information
-
-- Email: hruteshghodmare19@gmail.com
-- Phone: 9970590165
 
 Feel free to explore my GitHub repositories to see some of my coding projects and contributions!
 
