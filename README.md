@@ -1,7 +1,7 @@
 
 # 👋 Hey there, I'm **Hrutesh Ghodmare**
 
-📚 Aspiring Software Developer 
+📚 Aspiring Software Developer.
 
 🚀 Excited to learn and contribute to the world of Fullstack development!
 
