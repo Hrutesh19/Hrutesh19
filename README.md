@@ -1,5 +1,5 @@
 # Hi there, I'm Hrutesh Ghodmare! 👋
-[Hrutesh Ghodmare]("www.linkedin.com/in/hrutesh-ghodmare-5aa44521b")
+[Hrutesh Ghodmare](www.linkedin.com/in/hrutesh-ghodmare-5aa44521b)
 
 Welcome to my GitHub profile. I'm a passionate Full Stack Developer Engineer with a strong background in technical skills and a drive for innovation. 
 
