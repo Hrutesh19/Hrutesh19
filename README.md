@@ -2,6 +2,7 @@
 👋 Hey there, I'm **Hrutesh Ghodmare**
 
 📚 Aspiring Fullstack Developer | 🌱 Learning and Growing
+
 🚀 Excited to learn and contribute to the world of Fullstack development!
 
 🎓 **Academic Background**
