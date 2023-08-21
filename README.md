@@ -1,7 +1,7 @@
 
 # 👋 Hey there, I'm **Hrutesh Ghodmare**
 
-📚 Aspiring Fullstack Developer 
+📚 Aspiring Software Developer 
 
 🚀 Excited to learn and contribute to the world of Fullstack development!
 
@@ -20,8 +20,8 @@
 - Version Control: Git
 
 📖 **Publications/Research**
-- 📝 "A Comprehensive Review of Foliage Penetration Radar Systems"
-- 📝 "A Review of Image Processing Algorithms for Foliage Target Detection and Classification"
+- 📝 ["A Comprehensive Review of Foliage Penetration Radar Systems"](https://www.researchpublish.com/papers/a-comprehensive-review-on-foliage-penetration-radar-systems)
+- 📝 ["A Review of Image Processing Algorithms for Foliage Target Detection and Classification"](https://www.researchpublish.com/papers/a-review-on-image-processing-algorithm-for-foliage-target-detection-and-classification)
 
 🔗 **Connect with me**
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/hrutesh-ghodmare-5aa44521b)
