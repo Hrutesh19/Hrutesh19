@@ -1,5 +1,5 @@
 
-👋 Hey there, I'm #Hrutesh Ghodmare#
+👋 Hey there, I'm **Hrutesh Ghodmare**
 
 📚 Aspiring Fullstack Developer | 🌱 Learning and Growing
 
@@ -22,7 +22,6 @@
 - 📝 "A Review of Image Processing Algorithms for Foliage Target Detection and Classification"
 
 🔗 **Connect with me**
-- LinkedIn: [www.linkedin.com/in/hrutesh-ghodmare-5aa44521bL]
-- 
-🚀 Excited to learn and contribute to the world of Fullstack development!
+-[LinkedIn Hrutesh Ghodmare](www.linkedin.com/in/hrutesh-ghodmare-5aa44521bL)
 
+🚀 Excited to learn and contribute to the world of Fullstack development!
