@@ -10,7 +10,7 @@
   - Visitor’s Car Parking System with LCD Display Using Arduino | 2022
 
 🧪 **Internship**
-- Research Intern at DRDO under the Defence Institute of Advanced Technology (DIAT) - Radar System Lab | 2022-23
+- Research Intern at DRDO under the Defence Institute of Advanced Technology (DIAT) - Radar System Lab |Sep 22 - May 23
 
 💼 **Skills**
 - Programming: C, C++, Core Java
