@@ -17,7 +17,7 @@
 💼 **Skills**
 - Programming: C, C++, Core Java
 - Databases: MySQL
-- Version Control: Git
+- Tools: Git, Github, Command Line(CLI)
 
 📖 **Publications/Research**
 - 📝 ["A Comprehensive Review of Foliage Penetration Radar Systems"](https://www.researchpublish.com/papers/a-comprehensive-review-on-foliage-penetration-radar-systems)
