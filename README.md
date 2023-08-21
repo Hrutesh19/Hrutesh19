@@ -2,6 +2,7 @@
 👋 Hey there, I'm **Hrutesh Ghodmare**
 
 📚 Aspiring Fullstack Developer | 🌱 Learning and Growing
+🚀 Excited to learn and contribute to the world of Fullstack development!
 
 🎓 **Academic Background**
 - BE in [ Electronics and Telecommunication] | [Savitribai Phule Pune University] | [2023]
@@ -24,4 +25,4 @@
 🔗 **Connect with me**
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/hrutesh-ghodmare-5aa44521b)
 
-🚀 Excited to learn and contribute to the world of Fullstack development!
+
