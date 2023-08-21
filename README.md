@@ -1,27 +1,16 @@
-# Hi there, I'm Hrutesh Ghodmare! 👋
-[Hrutesh Ghodmare](www.linkedin.com/in/hrutesh-ghodmare-5aa44521b)
 
-Welcome to my GitHub profile. I'm a passionate Full Stack Developer Engineer with a strong background in technical skills and a drive for innovation. 
-
-## 💼 Academic Projects
-
-- **Accurate Detection of Foliage Targets using Image Processing (Under DIAT)** 
-- **Visitor’s Car Parking System with LCD Display Using Arduino** 
-
-## 💼 Internship
-
-- **DRDO under the Defence Institute of Advanced Technology (DIAT)** (RADAR System Lab) | 2022-23
-
-## 💻 Skills
-
-- Programming: C, C++, Core Java, 
-- Database: MySQL
-
-## 📚 Publications / Research
-
-- "A Comprehensive Review of Foliage Penetration Radar Systems"
-- "A Review of Image Processing Algorithms for Foliage Target Detection and Classification"
+### 👋 Hello, I'm Hrutesh Ghodmare
 
 
-Feel free to explore my GitHub repositories to see some of my coding projects and contributions!
+
+🛠️ My journey into the world of software development began with a love for problem-solving, and it's evolved into a deep-seated curiosity about cutting-edge tech. I've had the privilege of interning at DRDO under the Defence Institute of Advanced Technology (DIAT) in their RADAR System Lab, where I contributed to groundbreaking research.
+
+📚 My research interests include Foliage Penetration Radar Systems and Image Processing Algorithms for Foliage Target Detection and Classification. You can explore my publications here:
+- [Comprehensive Review of Foliage Penetration Radar Systems]()
+- [Review of Image Processing Algorithms for Foliage Target Detection and Classification](https://lnkd.in/d9hkWifS)
+
+🌐 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hrutesh-ghodmare-5aa44521b) 
+
+
+
 
