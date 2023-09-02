@@ -7,12 +7,13 @@
 
 🎓 **Academic Background**
 - BE in  Electronics and Telecommunication | Savitribai Phule Pune University | 2023
-- **Academic Projects**:
+  
+   **Academic Projects**:
   1. Accurate Detection of Foliage Targets using Image Processing (DIAT) | 2023
      
   3. Visitor’s Car Parking System with LCD Display Using Arduino | 2022
 
-🧪 **Internship**
+ 🧪 **Internship**
 - Research Intern at DRDO under the Defence Institute of Advanced Technology (DIAT) - Radar System Lab |Sep 22 - May 23
 
 💼 **Technical Skills**
