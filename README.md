@@ -17,10 +17,10 @@
 - Research Intern at DRDO under the Defence Institute of Advanced Technology (DIAT) - Radar System Lab |Sep 22 - May 23
 
 💼 **Technical Skills**
-- Programming: C, C++, Core Java
+- Programming: C, C++, Core Java, JavaScript,HTML, CSS.
 - Databases: MySQL
 - Tools: Git, Github, Command Line(CLI)
-- Framework: Springboot
+- Framework: Springboot , Angular, Bootstrap.
 
 📖 **Publications/Research**
 - 📝 ["A Comprehensive Review of Foliage Penetration Radar Systems"](https://www.researchpublish.com/papers/a-comprehensive-review-on-foliage-penetration-radar-systems)
